@@ -16,9 +16,6 @@ export default function Footer() {
             <p className="text-[#6b665d] leading-relaxed mb-6">
               Consultorio odontológico de vanguardia en Argüello, Córdoba. Comprometidos con tu salud y bienestar bucal.
             </p>
-            <p className="text-sm text-[#9b9389]">
-              Matrícula Provincial: [Número de Matrícula]
-            </p>
           </div>
 
           {/* Enlaces Rápidos */}
