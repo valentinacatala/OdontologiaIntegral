@@ -10,13 +10,13 @@ const testimonials = [
   {
     name: 'Juan Martínez',
     role: 'Paciente',
-    text: 'La Dra. Merlo es muy atenta y explica bien cada procedimiento. Me siento seguro en sus manos.',
+    text: 'La Dra. Merlo es muy atenta y explica bien cada procedimiento.',
     rating: 5
   },
   {
-    name: 'Sofía Rodríguez',
+    name: 'Martina Percello',
     role: 'Paciente',
-    text: 'Un consultorio donde te tratan como persona, no como un número. Muy recomendado para toda la familia.',
+    text: 'Excelente atención, muy profesional y atenta la doctora.',
     rating: 5
   },
 ];
